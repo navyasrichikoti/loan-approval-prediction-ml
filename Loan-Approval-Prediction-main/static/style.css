@@ -1,0 +1,246 @@
+*{
+margin:0;
+padding:0;
+box-sizing:border-box;
+}
+
+body{
+
+font-family:'Poppins',sans-serif;
+
+background:
+linear-gradient(
+135deg,
+#F5EFEA,
+#DDD0C8);
+
+min-height:100vh;
+
+}
+
+/* Main Container */
+
+.container{
+
+width:85%;
+
+margin:40px auto;
+
+}
+
+/* Home Button */
+
+.home-btn{
+
+display:inline-block;
+
+background:linear-gradient(
+135deg,
+#8B6F5A,
+#6F4E37);
+
+color:white;
+
+padding:12px 28px;
+
+border-radius:12px;
+
+text-decoration:none;
+
+font-weight:600;
+
+box-shadow:0 8px 20px rgba(111,78,55,0.25);
+
+transition:0.3s;
+
+}
+
+.home-btn:hover{
+
+transform:translateY(-3px);
+
+}
+
+/* Result Box */
+
+.result-box{
+
+margin-top:35px;
+
+background:linear-gradient(
+135deg,
+#A0846A,
+#7B5E57);
+
+padding:35px;
+
+border-radius:18px;
+
+color:white;
+
+font-size:30px;
+
+font-weight:700;
+
+box-shadow:0 10px 25px rgba(0,0,0,0.12);
+
+}
+
+/* Form */
+
+form{
+
+margin-top:40px;
+
+}
+
+/* Labels */
+
+label{
+
+display:block;
+
+margin-top:22px;
+
+margin-bottom:10px;
+
+font-size:20px;
+
+font-weight:600;
+
+color:#5C4033;
+
+}
+
+/* Inputs */
+
+input,
+select{
+
+width:100%;
+
+padding:16px;
+
+border:none;
+
+border-radius:14px;
+
+background:#ffffff;
+
+font-size:17px;
+
+box-shadow:
+0 4px 12px rgba(0,0,0,0.08);
+
+outline:none;
+
+transition:0.3s;
+
+}
+
+input:focus,
+select:focus{
+
+transform:scale(1.01);
+
+box-shadow:
+0 0 0 3px rgba(160,132,106,0.25);
+
+}
+
+/* Predict Button */
+
+button{
+
+margin-top:35px;
+
+width:100%;
+
+padding:16px;
+
+border:none;
+
+border-radius:14px;
+
+background:linear-gradient(
+135deg,
+#8B6F5A,
+#6F4E37);
+
+color:white;
+
+font-size:22px;
+
+font-weight:700;
+
+cursor:pointer;
+
+transition:0.3s;
+
+box-shadow:
+0 10px 22px rgba(111,78,55,0.28);
+
+}
+
+button:hover{
+
+transform:translateY(-4px);
+
+}
+
+/* Mobile */
+
+@media(max-width:768px){
+
+.container{
+
+    width:92%;
+}
+
+.result-box{
+
+    font-size:22px;
+
+    padding:25px;
+}
+
+}
+/* Homepage Machine Learning Text */
+
+.text-indigo-600{
+
+color:#8B6F5A !important;
+}
+
+
+
+/* Homepage Start Prediction Button */
+
+.bg-indigo-600{
+
+background:
+linear-gradient(
+135deg,
+#8B6F5A,
+#6F4E37) !important;
+
+border:none !important;
+
+color:white !important;
+
+box-shadow:
+0 8px 20px rgba(111,78,55,0.25);
+
+transition:0.3s;
+}
+
+.bg-indigo-600:hover{
+
+background:
+linear-gradient(
+135deg,
+#6F4E37,
+#8B6F5A) !important;
+
+transform:translateY(-3px);
+}
