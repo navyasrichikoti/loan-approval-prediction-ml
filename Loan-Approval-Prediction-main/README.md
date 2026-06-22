@@ -44,6 +44,12 @@ The application is built using Flask, Python, HTML, CSS, Bootstrap, and Machine 
 
 
 
+https://github.com/user-attachments/assets/f5b48802-47c5-4cb7-a675-ba4632485f94
+
+
+
+
+
 
 
 
