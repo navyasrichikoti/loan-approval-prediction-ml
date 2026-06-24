@@ -32,14 +32,26 @@ The application is built using Flask, Python, HTML, CSS, Bootstrap, and Machine 
 ---
 
 ## Project Screenshots
+<img width="955" height="444" alt="Screenshot 2026-06-21 223754" src="https://github.com/user-attachments/assets/029442ec-b18d-48df-9f7b-3e1e0e5e7451" />
 
-Add your project screenshots here.
 
 ---
 
 ## Project Demo Video
 
-Add your project demo video link here.
+
+
+
+
+
+https://github.com/user-attachments/assets/f5b48802-47c5-4cb7-a675-ba4632485f94
+
+
+
+
+
+
+
 
 ---
 
