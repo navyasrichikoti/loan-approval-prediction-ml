@@ -91,6 +91,10 @@ GitHub: https://github.com/navyasrichikoti
 
 ---
 
+## Live Demo
+
+https://loan-approval-prediction-ml-2m4s.onrender.com
+
 ## Future Enhancements
 
 * User Authentication
